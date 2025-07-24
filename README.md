@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="forecast_nino_nina.png" alt="Pronóstico El Niño/La Niña" width="700"/>
+</p>
+
 # Predictor de Fenómenos El Niño / La Niña
 
 ## Descripción
