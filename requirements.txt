@@ -1,0 +1,26 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Prophet forecasting
+prophet>=1.1.4
+
+# Scientific computing and statistics
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Additional Prophet dependencies (usually installed automatically)
+cmdstanpy>=1.0.4
+pystan>=3.0.0
+
+# Optional: for better performance
+plotly>=5.14.0  # For interactive plots (optional)
+jupyter>=1.0.0  # If running in notebooks
+
+# System dependencies that might be needed
+setuptools-git>=1.2
+wheel>=0.40.0
