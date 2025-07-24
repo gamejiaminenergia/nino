@@ -1,7 +1,13 @@
 
-<p align="center">
-  <img src="forecast_nino_nina.png" alt="Pronóstico El Niño/La Niña" width="700"/>
-</p>
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="forecast_nino_nina.png" alt="Pronóstico El Niño/La Niña" width="700" style="border: 2px solid #1976d2; border-radius: 12px; box-shadow: 0 4px 16px rgba(25, 118, 210, 0.15); margin-bottom: 10px;"/>
+  
+  <br/>
+  <strong style="font-size: 1.2em; color: #1976d2;">Figura 1. Pronóstico de Fenómenos El Niño / La Niña (36 meses)</strong>
+  <br/>
+  <em style="color: #555;">Valores positivos indican condiciones de <b>El Niño</b>, negativos de <b>La Niña</b> y valores cercanos a cero condiciones <b>neutrales</b>.</em>
+</div>
 
 # Predictor de Fenómenos El Niño / La Niña
 
